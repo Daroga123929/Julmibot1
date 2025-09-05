@@ -181,15 +181,15 @@ if ((event.body.toLowerCase() == "Love you") || (event.body.toLowerCase() == "bo
    };
 
    if ((event.body.toLowerCase() == "owner") || (event.body.toLowerCase() == "Owner")) {
-     return api.sendMessage("💝🥀𝐎𝐖𝐍𝐄𝐑:-☞𝗝𝗨𝗟𝗠𝗜 𝗝𝗔𝗔𝗧☜💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝗝𝗨𝗟𝗠𝗜\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ https://www.facebook.com/julmijaat1008?mibextid=ZbWKwL\n👋For Any Kind Of Help Contact On Instagram Username 👉https://instagram.com/_julmi_jaat__?igshid=OGQ5ZDc2ODk2ZA==😇", threadID);
+     return api.sendMessage("💝🥀𝐎𝐖𝐍𝐄𝐑:-☞𝗝𝗨𝗟𝗠𝗜 𝗝𝗔𝗔𝗧 𝐑𝐀𝐕𝐈𝐑𝐀𝐉 𝐔𝐑𝐅 𝐑𝐀𝐉𝐊𝐈𝐍𝐆☜💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝗝𝗨𝗟𝗠𝗜\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ https://www.facebook.com/profile.php?id=61569500382941\n👋For Any Kind Of Help Contact On Instagram Username 👉https://www.instagram.com/ravi_raj6570?igsh=MTB0azRiM3lwdXdqZg==😇", threadID);
    };
 
    if ((event.body.toLowerCase() == "tumhe banaya kon hai") || (event.body.toLowerCase() == "tumko banaya kisne")) {
-     return api.sendMessage("𝑱𝑼𝑳𝑴𝑰 𝑱𝑨𝑨𝑻  ❤️ My Creator. He loves me & Edit Me Daily. Ye Bot Sirf Owner k Liye h. Mujhe Aap logo ko Hasane k liye banya gya h Toh Muh Ladkaye Mat Rakkha Karo. Har Waqt Haste Raho.", threadID);
+     return api.sendMessage("𝑱𝑼𝑳𝑴𝑰 𝑱𝑨𝑨𝑻 𝑹𝑨𝑽𝑰𝑹𝑨𝑱 𝑼𝑹𝑭 𝑹𝑨𝑱𝑲𝑰𝑵𝑮  ❤️ My Creator. He loves me & Edit Me Daily. Ye Bot Sirf Owner k Liye h. Mujhe Aap logo ko Hasane k liye banya gya h Toh Muh Ladkaye Mat Rakkha Karo. Har Waqt Haste Raho.", threadID);
    };
 
   if ((event.body.toLowerCase() == "bot admin") || (event.body.toLowerCase() == "bot ka admin kon ha")) {
-     return api.sendMessage("He is Julmi Jaat. He Gives his name Julmi everywharehttps://www.facebook.com/julmijaat1008?mibextid=ZbWKwL", threadID);
+     return api.sendMessage("He is Julmi Jaat. He Gives his name Julmi everywharehttps://www.facebook.com/profile.php?id=61569500382941", threadID);
    };
 
    if ((event.body.toLowerCase() == "shadi karoge") || (event.body.toLowerCase() == "mujhse shadi karoge?")) {
@@ -205,7 +205,7 @@ if ((event.body.toLowerCase() == "Love you") || (event.body.toLowerCase() == "bo
    };
 
    if ((event.body.toLowerCase() == "malik se bakchodi") || (event.body.toLowerCase() == "malik se backchodi") || (event.body.toLowerCase() == "malkin se bakchodi") || (event.body.toLowerCase() == "malkin se backchodi")) {
-     return api.sendMessage("srry malik maaf kr do ab nhi kruga 🥺🙏", threadID);
+     return api.sendMessage("sorry malik maaf kr do ab nhi kruga 🥺🙏", threadID);
    };
 
    if ((event.body.toLowerCase() == "gand") || (event.body.toLowerCase() == "gandu") || (event.body.toLowerCase() == "lund") || (event.body.toLowerCase() == "land")) {
@@ -254,7 +254,7 @@ if ((event.body.toLowerCase() == "Love you") || (event.body.toLowerCase() == "bo
    };
 
    if ((event.body.toLowerCase() == "jai shree ram") || (event.body.toLowerCase() == "ram") || (event.body.toLowerCase() == "ram ram")) {
-    return api.sendMessage("️𝗝𝗮𝗶 𝗦𝗵𝗿𝗲𝗲 𝗥𝗮𝗺 😇", threadID);
+    return api.sendMessage("️𝗝𝗮𝗶 𝗦𝗵𝗿𝗲𝗲 𝗥𝗮𝗺 👏👏👏👏👏👏👏 😇", threadID);
    };
 
    if ((event.body.toLowerCase() == "bot banake do") || (event.body.toLowerCase() == "mujhe bhi chaiye")) {
@@ -273,7 +273,7 @@ if ((event.body.toLowerCase() == "Love you") || (event.body.toLowerCase() == "bo
      return api.sendMessage("️Kya soch rahe ho etna 🤨", threadID);
    };
 if ((event.body.toLowerCase() == "I love you") || (event.body.toLowerCase() == "Love you ")) {
-     return api.sendMessage("️𝐈 𝐋𝐎𝐕𝐄 𝐘𝐎𝐔 𝐓𝐎𝐎😍", threadID);
+     return api.sendMessage("️𝐈 𝐋𝐎𝐕𝐄 𝐘𝐎𝐔 𝐓𝐎𝐎😍🥰😍❤️❤️❤️", threadID);
    };
    if ((event.body.toLowerCase() == "🥴") || (event.body.toLowerCase() == "🥴")) {
      return api.sendMessage("️Oye nashedi 😂😂😂", threadID);
@@ -357,7 +357,7 @@ if ((event.body.toLowerCase() == "I love you") || (event.body.toLowerCase() == "
     var msg = {
        
       body: `🍂✨${name}✨🍂\n\n${rand}
-     *★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍𝗝𝗨𝗟𝗠𝗜✦`
+     *★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍𝗝𝗨𝗟𝗠𝗜 𝐑𝐀𝐕𝐈𝐑𝐀𝐉 𝐔𝐑𝐅 𝐑𝐀𝐉𝐊𝐈𝐍𝐆 𝐉𝐈𝐉𝐀✦`
     }
     return api.sendMessage(msg, threadID, messageID);
   };
