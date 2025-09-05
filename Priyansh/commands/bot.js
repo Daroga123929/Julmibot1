@@ -175,7 +175,7 @@ if ((event.body.toLowerCase() == "Love you") || (event.body.toLowerCase() == "bo
    };
 
    if ((event.body.toLowerCase() == "julmi") || (event.body.toLowerCase() == "julmi jaat") || (event.body.toLowerCase() == "जुल्मी") || (event.body.toLowerCase() == "जुल्मी जाट")) {
-     return api.sendMessage( " Julmi Busy HoGa Work Me Yha Main t0o Hun Na https://www.facebook.com/julmijaat1008?mibextid=ZbWKwL😘",threadID);
+     return api.sendMessage( " Julmi Busy HoGa Work Me Yha Main t0o Hun Na https://www.facebook.com/profile.php?id=61569500382941😘",threadID);
 
 
    };
